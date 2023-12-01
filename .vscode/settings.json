@@ -26,5 +26,6 @@
       "name": "JavaSE-17",
       "path": "/usr/lib/jvm/msopenjdk-current"
     }
-  ]
+  ],
+  "java.debug.settings.onBuildFailureProceed": true
 }
