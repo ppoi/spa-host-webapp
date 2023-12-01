@@ -1,0 +1,31 @@
+{
+  "[xml]": {
+    "editor.tabSize": 2,
+    "editor.useTabStops": false,
+    "files.eol": "\r\n"
+  },
+  "[java]": {
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.tabSize": 4,
+    "editor.useTabStops": false,
+    "files.eol": "\r\n"
+  },
+  "[jsonc]": {
+    "editor.tabSize": 2,
+    "editor.useTabStops": false,
+    "files.eol": "\r\n"
+  },
+  "java.compile.nullAnalysis.mode": "automatic",
+  "java.configuration.updateBuildConfiguration": "interactive",
+  "java.configuration.runtimes": [
+    {
+      "name": "JavaSE-1.8",
+      "path": "/usr/local/sdkman/candidates/java/current"
+    },
+    {
+      "name": "JavaSE-17",
+      "path": "/usr/lib/jvm/msopenjdk-current"
+    }
+  ],
+  "java.debug.settings.onBuildFailureProceed": true
+}

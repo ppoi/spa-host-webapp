@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-Application<spa-host-webapp>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "org.tsukuba_bunko.lab.spa.Application",
+      "projectName": "spa-host-webapp",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}

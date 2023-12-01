@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "spa.stage",
+  "type": "java.lang.String",
+  "description": "デプロイステージ"
+}]}
